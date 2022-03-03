@@ -29,7 +29,7 @@
         android:layout_marginEnd="16dp"
         android:clickable="true"
         android:src="@drawable/ic_camera"
-        android:onClick="onImageCameraClicked"
+        android:onClick="onImageGalleryClicked"
         app:tint="@color/white"
         app:backgroundTint="#FF055A"
         android:layout_width="wrap_content"
